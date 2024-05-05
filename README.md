@@ -7,7 +7,7 @@ Applicant tracking system (ATS), especially older ones, do not like PDFs that ha
 Resume template for data scientists, a complement to data-science-tech-cover-letter-template:
 https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
 
-![cover](./preview.pdf?raw=true)
+![cover](./resume.pdf?raw=true)
 
 ### Files:
 - resume.tex: Main file
