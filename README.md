@@ -37,4 +37,4 @@ https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template
 
 - section/activities: optional, could comment out in resume.tex.
                
-### Last Updated: June 20th, 2023
+### Last Updated: July 25th, 2024
